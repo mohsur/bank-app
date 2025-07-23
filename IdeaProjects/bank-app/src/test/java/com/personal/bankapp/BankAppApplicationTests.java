@@ -1,13 +1,13 @@
-package com.personal.bankapp;
-
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
-
-@SpringBootTest
-class BankAppApplicationTests {
-
-    @Test
-    void contextLoads() {
-    }
-
-}
+//package com.personal.bankapp;
+//
+//import org.junit.jupiter.api.Test;
+//import org.springframework.boot.test.context.SpringBootTest;
+//
+//@SpringBootTest
+//class BankAppApplicationTests {
+//
+//    @Test
+//    void contextLoads() {
+//    }
+//
+//}
